@@ -39,9 +39,7 @@ This project demonstrates the application of **Support Vector Machines (SVM)** a
 
 ---
 
-## Technologies Used
-
-- **Libraries:**
+**Libraries:**
   - **NumPy**: Numerical computations
   - **Matplotlib**: Data visualization
   - **scikit-learn**: Machine learning models
